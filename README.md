@@ -1,12 +1,3 @@
----
-title: Voxira AI Backend
-emoji: 🎙️
-colorFrom: blue
-colorTo: purple
-sdk: docker
-pinned: false
----
-
 #  Voxira AI – Voice Transcription & Multilingual Translation App
 
 Voxira AI is a cutting-edge web application that transcribes audio/video files into accurate text and translates them into 10+ global languages using the power of OpenAI’s Whisper model and Google Translate API. Designed with simplicity, speed, and accessibility in mind, Voxira AI helps users convert speech into multiple languages with ease.
