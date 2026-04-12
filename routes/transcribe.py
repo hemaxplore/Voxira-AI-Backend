@@ -6,7 +6,6 @@ from utils.firebase import db
 from datetime import datetime
 import shutil
 
-os.environ["PATH"] += os.pathsep + r"C:\ffmpeg\ffmpeg-8.0.1-essentials_build\bin"
 
 router = APIRouter()
 
