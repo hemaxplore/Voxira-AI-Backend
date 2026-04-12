@@ -9,4 +9,5 @@ pydantic
 streamlit
 requests
 pytubefix
-
+yt-dlp
+ffmpeg-python
